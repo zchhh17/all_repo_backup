@@ -40,3 +40,9 @@
 - 版本：2.3
 - 文件：[yx-tools_2.3.zip](https://github.com/zchhh17/full_backup/releases/download/2.3/yx-tools_2.3.zip)
 
+## yx-tools
+- 类型：作者 Release
+- 时间：2025-11-01 09:57:47
+- 版本：v2.2.1
+- 文件：[yx-tools_v2.2.1.zip](https://github.com/zchhh17/full_backup/releases/download/v2.2.1/yx-tools_v2.2.1.zip)
+
