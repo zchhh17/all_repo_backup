@@ -64,3 +64,21 @@
 - 版本：backup-20251104063350
 - 文件：[cfnew_20251104_063346.zip](https://github.com/zchhh17/full_backup/releases/download/backup-20251104063350/cfnew_20251104_063346.zip)
 
+## cfnew
+- 类型：源码快照
+- 时间：2025-11-06 05:44:27
+- 版本：backup-20251106054424
+- 文件：[cfnew_20251106_054416.zip](https://github.com/zchhh17/full_backup/releases/download/backup-20251106054424/cfnew_20251106_054416.zip)
+
+## cfnew
+- 类型：作者 Release
+- 时间：2025-11-06 05:45:08
+- 版本：v2.2
+- 文件：[cfnew_v2.2.zip](https://github.com/zchhh17/full_backup/releases/download/v2.2/cfnew_v2.2.zip)
+
+## cfnew
+- 类型：作者 Release
+- 时间：2025-11-06 05:45:24
+- 版本：v2.1
+- 文件：[cfnew_v2.1.zip](https://github.com/zchhh17/full_backup/releases/download/v2.1/cfnew_v2.1.zip)
+
