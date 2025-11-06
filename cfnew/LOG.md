@@ -82,3 +82,9 @@
 - 版本：v2.1
 - 文件：[cfnew_v2.1.zip](https://github.com/zchhh17/full_backup/releases/download/v2.1/cfnew_v2.1.zip)
 
+## cfnew
+- 类型：源码快照
+- 时间：2025-11-06 13:22:13
+- 版本：20251106_132213
+- 文件：[/data/data/com.termux/files/home/github_backup/cfnew/cfnew_20251106_132202.zip](https://github.com/zchhh17/full_backup/releases/download/20251106_132213/cfnew_20251106_132202.zip)
+
